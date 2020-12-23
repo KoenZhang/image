@@ -1,6 +1,6 @@
-<mxfile modified="2020-12-23T07:13:35.397Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="CRE5DH2-GsBxlOUGWX_3" version="14.1.1" type="github">
+<mxfile modified="2020-12-23T07:19:36.316Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="WKJwaAGBENqNPzfqipeW" version="14.1.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,9 +28,9 @@
         <mxCell id="OdR8DIXrhFKDioFyk40H-9" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.vmware_vsan;fillColor=#3962AD;" vertex="1" parent="1">
           <mxGeometry x="280" y="194.5" width="55" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OdR8DIXrhFKDioFyk40H-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3962AD;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OdR8DIXrhFKDioFyk40H-10" target="OdR8DIXrhFKDioFyk40H-8">
+        <mxCell id="OdR8DIXrhFKDioFyk40H-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3962AD;fontColor=#3962AD;" edge="1" parent="1" source="OdR8DIXrhFKDioFyk40H-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="219.5" as="targetPoint" />
+            <mxPoint x="587" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OdR8DIXrhFKDioFyk40H-10" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.vmware_vsan;fillColor=#3962AD;sketch=0;" vertex="1" parent="1">
@@ -50,7 +50,7 @@
         <mxCell id="OdR8DIXrhFKDioFyk40H-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3962AD;fontColor=#3962AD;" edge="1" parent="1" source="OdR8DIXrhFKDioFyk40H-20" target="OdR8DIXrhFKDioFyk40H-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OdR8DIXrhFKDioFyk40H-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;请求更换&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.critical;fontColor=#3962AD;fillColor=#3962AD;sketch=0;" vertex="1" parent="1">
+        <mxCell id="OdR8DIXrhFKDioFyk40H-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;请求更换电池&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.critical;fontColor=#3962AD;fillColor=#3962AD;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="533.25" y="472" width="55.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OdR8DIXrhFKDioFyk40H-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3962AD;fontColor=#3962AD;" edge="1" parent="1" source="OdR8DIXrhFKDioFyk40H-21" target="OdR8DIXrhFKDioFyk40H-10">
@@ -73,6 +73,12 @@
         </mxCell>
         <mxCell id="OdR8DIXrhFKDioFyk40H-36" value="&lt;font style=&quot;font-size: 18px&quot;&gt;新的采样数据&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;sketch=0;fontColor=#3962AD;" vertex="1" parent="1">
           <mxGeometry x="717.5" y="160" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OdR8DIXrhFKDioFyk40H-41" value="&lt;font style=&quot;font-size: 18px&quot;&gt;重新训练&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;sketch=0;fontColor=#3962AD;" vertex="1" parent="1">
+          <mxGeometry x="622" y="224.5" width="82" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OdR8DIXrhFKDioFyk40H-42" value="&lt;font style=&quot;font-size: 18px&quot;&gt;故障&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;sketch=0;fontColor=#3962AD;" vertex="1" parent="1">
+          <mxGeometry x="559" y="276" width="46" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
